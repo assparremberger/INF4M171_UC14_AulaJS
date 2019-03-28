@@ -1,0 +1,36 @@
+/* 
+    Created on : 22/03/2019, 09:37:48
+    Author     : assparremberger
+*/
+
+#menu{
+   width: 97%;
+   height: 40px;
+   background-color: #ddd;
+   border-bottom: 2px solid blue;
+   padding-bottom: 5px;
+   padding-top: 25px;
+}
+#menu a{
+    background-color: #555;
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+#menu a:hover{
+    background-color: #111;
+}
+
+
+
+
+
+
+
+
+
+
+
+
